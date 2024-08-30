@@ -1,0 +1,1 @@
+# Hi! I'm Joseph, student of programmer full stack <3
